@@ -1,1 +1,1 @@
-https://usmantahirsqa.github.io/MyOnlineCV/CV.html
+https://usmantahirsqa.github.io/CurriculumVitae/CV.html
